@@ -1,0 +1,501 @@
+Order ID,Customer Name,Region,Product Category,Product,Quantity,Unit Price,Discount (%),Payment Method,Status,Feedback,Total Price,Net Price
+ORD001,Danielle Williams,South,Clothing,Novel,14,297.93,19,Net Banking,Delivered,Great Service,4171.02,3378.53
+ORD002,Derrick Martinez,South,Books,Laptop,12,51.99,11,Credit Card,Pending,Excellent,623.88,555.25
+ORD003,Steven Adams,South,Books,Mobile,12,330.47,28,Credit Card,Delivered,Excellent,3965.64,2855.26
+ORD004,Rebecca Cook,East,Electronics,Mobile,5,86.9,30,Net Banking,Returned,Average,434.5,304.15
+ORD005,Max Stewart,South,Books,Shirt,18,281.31,17,Net Banking,Delivered,Damaged Product,5063.58,4202.77
+ORD006,Ana Bean,North,Furniture,Shirt,3,283.31,12,Net Banking,Returned,Great Service,849.93,747.94
+ORD007,Breanna Ferguson,South,Books,Chair,16,279.6,49,UPI,Returned,Average,4473.6,2281.54
+ORD008,John Wheeler,East,Clothing,Headphones,3,376.71,25,Cash,Pending,Damaged Product,1130.13,847.6
+ORD009,Michael Anderson,West,Furniture,Action Figure,5,208.69,4,UPI,Pending,Late Delivery,1043.45,1001.71
+ORD010,Christopher Vincent,South,Clothing,Jeans,9,290.42,32,Cash,Returned,Late Delivery,2613.78,1777.37
+ORD011,Dana Hoffman,West,Clothing,Novel,17,303.9,49,Net Banking,Returned,Late Delivery,5166.3,2634.81
+ORD012,Nicholas Simon,West,Furniture,Doll,7,220.26,18,Credit Card,Returned,Damaged Product,1541.82,1264.29
+ORD013,Sarah Nelson,East,Toys,Table,10,341.87,5,Credit Card,Returned,Damaged Product,3418.7,3247.76
+ORD014,Gregory Smith,East,Furniture,Mobile,10,57.28,42,Credit Card,Delivered,Average,572.8,332.22
+ORD015,Brittney Bryant,East,Toys,Table,1,486.16,18,UPI,Delivered,Average,486.16,398.65
+ORD016,Ryan Park,West,Furniture,Headphones,1,258.04,39,Cash,Pending,Average,258.04,157.4
+ORD017,Lauren Thomas,West,Toys,Novel,1,222.26,31,UPI,Delivered,Average,222.26,153.36
+ORD018,Eric Malone,East,Furniture,Table,8,174.59,37,Cash,Returned,Average,1396.72,879.93
+ORD019,Wanda Buchanan,South,Furniture,Headphones,18,355.22,29,UPI,Pending,Excellent,6393.96,4539.71
+ORD020,Tracy Clements,South,Furniture,Headphones,5,186.57,25,Cash,Delivered,Average,932.85,699.64
+ORD021,Ashley Johnson,East,Books,Table,4,229.32,1,Net Banking,Delivered,Damaged Product,917.28,908.11
+ORD022,Sheila Taylor,South,Toys,Doll,18,246.86,7,Credit Card,Returned,Late Delivery,4443.48,4132.44
+ORD023,Robert Miller,East,Books,Jeans,17,160.27,6,UPI,Returned,Average,2724.59,2561.11
+ORD024,Cindy Garza,East,Furniture,Mobile,12,64.2,17,Cash,Delivered,Poor Packaging,770.4,639.43
+ORD025,Megan Sims,South,Electronics,Mobile,11,272.55,30,Net Banking,Delivered,Great Service,2998.05,2098.64
+ORD026,Craig Johns,North,Clothing,Laptop,15,165.42,32,Cash,Delivered,Damaged Product,2481.3,1687.28
+ORD027,Jennifer May,East,Books,Jeans,6,409.94,18,Net Banking,Pending,Excellent,2459.64,2016.9
+ORD028,Jenna Pratt,North,Clothing,Chair,3,97.74,29,Credit Card,Delivered,Great Service,293.22,208.19
+ORD029,Diana Morris,South,Electronics,Action Figure,15,145,20,Credit Card,Returned,Excellent,2175,1740
+ORD030,Tammy Compton,South,Electronics,Mobile,16,166.56,40,Cash,Delivered,Excellent,2664.96,1598.98
+ORD031,Aaron Levine,South,Furniture,Novel,5,465.08,12,Cash,Pending,Excellent,2325.4,2046.35
+ORD032,Scott Estes,North,Electronics,Jeans,13,100.57,48,Credit Card,Returned,Late Delivery,1307.41,679.85
+ORD033,Anthony Levy,West,Clothing,Chair,9,111,18,Credit Card,Returned,Late Delivery,999,819.18
+ORD034,Patricia Jones,South,Books,Table,15,376.91,0,Credit Card,Returned,Average,5653.65,5653.65
+ORD035,Elizabeth Lee,East,Electronics,Chair,17,289.85,2,Credit Card,Delivered,Great Service,4927.45,4828.9
+ORD036,Meghan Miller,West,Toys,Doll,14,116.5,35,Net Banking,Delivered,Damaged Product,1631,1060.15
+ORD037,Joshua Hall,East,Toys,Chair,12,259.39,43,Net Banking,Returned,Late Delivery,3112.68,1774.23
+ORD038,Robert Snow,South,Clothing,Novel,16,236.34,37,Credit Card,Delivered,Damaged Product,3781.44,2382.31
+ORD039,Melanie Gibbs,East,Clothing,Action Figure,2,109.4,25,UPI,Returned,Late Delivery,218.8,164.1
+ORD040,Seth Morales,North,Electronics,Headphones,13,230.71,49,Net Banking,Delivered,Average,2999.23,1529.61
+ORD041,Sarah Cooper,West,Furniture,Novel,4,431.46,44,Cash,Returned,Excellent,1725.84,966.47
+ORD042,Pam Baker,East,Electronics,Jeans,14,415.11,49,Cash,Delivered,Average,5811.54,2963.89
+ORD043,Victoria Ramirez,North,Books,Jeans,18,488.23,33,Credit Card,Pending,Great Service,8788.14,5888.05
+ORD044,Emily Gilbert,North,Clothing,Shirt,10,152.16,9,Credit Card,Returned,Average,1521.6,1384.66
+ORD045,Stacy Murphy,North,Furniture,Doll,6,108.36,27,Net Banking,Delivered,Poor Packaging,650.16,474.62
+ORD046,Christopher Yates,South,Books,Novel,17,303.01,16,Net Banking,Delivered,Poor Packaging,5151.17,4326.98
+ORD047,Sarah Jordan,East,Clothing,Action Figure,6,154.55,6,Credit Card,Delivered,Late Delivery,927.3,871.66
+ORD048,Cynthia Gamble,South,Books,Novel,13,202.9,19,UPI,Returned,Poor Packaging,2637.7,2136.54
+ORD049,Chad Pearson,North,Furniture,Novel,10,249.37,35,Cash,Returned,Excellent,2493.7,1620.9
+ORD050,Erica Ramirez,South,Toys,Action Figure,3,244.7,38,UPI,Returned,Great Service,734.1,455.14
+ORD051,Dawn Pollard,North,Clothing,Novel,6,180.1,32,Cash,Delivered,Excellent,1080.6,734.81
+ORD052,Ronald Morgan,North,Furniture,Laptop,2,218.81,16,Net Banking,Returned,Damaged Product,437.62,367.6
+ORD053,Scott Patel,East,Electronics,Chair,3,53.58,38,UPI,Returned,Poor Packaging,160.74,99.66
+ORD054,Alexander Roberts,East,Clothing,Shirt,16,329,48,Cash,Pending,Damaged Product,5264,2737.28
+ORD055,Juan Lewis,East,Electronics,Chair,8,109.74,33,Net Banking,Returned,Damaged Product,877.92,588.21
+ORD056,Dana Powell,West,Clothing,Table,3,222.28,37,Cash,Returned,Damaged Product,666.84,420.11
+ORD057,Jordan Holt,North,Books,Mobile,15,485.07,33,Credit Card,Delivered,Average,7276.05,4874.95
+ORD058,Steven Fischer,East,Electronics,Table,1,261.93,34,UPI,Delivered,Average,261.93,172.87
+ORD059,Michael Martin,East,Electronics,Chair,19,303.85,49,Cash,Delivered,Late Delivery,5773.15,2944.31
+ORD060,David Paul,North,Electronics,Action Figure,1,51.29,6,Credit Card,Returned,Great Service,51.29,48.21
+ORD061,Brady Bowen,East,Furniture,Table,16,188.29,41,Cash,Pending,Average,3012.64,1777.46
+ORD062,Linda Anderson,North,Clothing,Action Figure,8,205.22,47,Cash,Pending,Late Delivery,1641.76,870.13
+ORD063,Sara Cook,North,Electronics,Doll,16,367.72,27,UPI,Delivered,Late Delivery,5883.52,4294.97
+ORD064,Jacob Brandt,East,Books,Mobile,17,211.81,48,UPI,Pending,Late Delivery,3600.77,1872.4
+ORD065,Rhonda Thompson,North,Books,Headphones,1,90.44,36,Credit Card,Returned,Damaged Product,90.44,57.88
+ORD066,Ashley Leonard,East,Books,Action Figure,19,332.44,29,Cash,Pending,Poor Packaging,6316.36,4484.62
+ORD067,Monica Miller,East,Furniture,Mobile,8,475,23,Net Banking,Returned,Average,3800,2926
+ORD068,Brian Lopez,West,Books,Chair,13,444.92,18,Credit Card,Returned,Damaged Product,5783.96,4742.85
+ORD069,Kelly Davis,North,Toys,Mobile,7,437.83,42,UPI,Delivered,Late Delivery,3064.81,1777.59
+ORD070,Ian Rivera,West,Clothing,Shirt,15,91.91,23,Cash,Returned,Great Service,1378.65,1061.56
+ORD071,Albert Fitzgerald,West,Clothing,Shirt,15,264.97,22,Net Banking,Delivered,Damaged Product,3974.55,3100.15
+ORD072,Timothy Gomez,East,Clothing,Doll,7,73.92,4,Cash,Delivered,Damaged Product,517.44,496.74
+ORD073,Ryan Patterson,West,Books,Mobile,18,393.58,11,Net Banking,Pending,Excellent,7084.44,6305.15
+ORD074,Jonathan Booker,East,Toys,Table,13,458.01,48,Credit Card,Delivered,Damaged Product,5954.13,3096.15
+ORD075,Julia French,East,Furniture,Action Figure,6,454.17,11,Cash,Delivered,Average,2725.02,2425.27
+ORD076,Ashley Cannon,East,Toys,Table,8,302.5,32,Net Banking,Returned,Great Service,2420,1645.6
+ORD077,Ryan Simpson,West,Books,Action Figure,8,52.84,38,Cash,Pending,Damaged Product,422.72,262.09
+ORD078,Victoria Fitzpatrick,North,Books,Novel,4,378.89,23,Credit Card,Pending,Excellent,1515.56,1166.98
+ORD079,Mr. Sean Villanueva,West,Furniture,Doll,9,145.88,20,Credit Card,Returned,Average,1312.92,1050.34
+ORD080,Christopher Mejia,North,Toys,Mobile,6,162.23,23,Net Banking,Delivered,Average,973.38,749.5
+ORD081,Haley Lopez,South,Books,Jeans,14,367.59,30,Cash,Delivered,Excellent,5146.26,3602.38
+ORD082,Cynthia Miller,East,Electronics,Action Figure,16,409.81,13,UPI,Delivered,Average,6556.96,5704.56
+ORD083,John Curry,North,Books,Doll,7,259.58,28,Net Banking,Pending,Average,1817.06,1308.28
+ORD084,Craig Scott,East,Furniture,Chair,14,457.54,0,Cash,Pending,Average,6405.56,6405.56
+ORD085,Lori Myers,West,Toys,Novel,10,211.45,18,UPI,Delivered,Great Service,2114.5,1733.89
+ORD086,Gwendolyn Martinez,North,Furniture,Mobile,2,93.22,14,Net Banking,Pending,Great Service,186.44,160.34
+ORD087,Justin Kirby,East,Books,Novel,11,427.93,20,UPI,Pending,Poor Packaging,4707.23,3765.78
+ORD088,Robert Walker,East,Toys,Laptop,11,233.1,35,UPI,Delivered,Great Service,2564.1,1666.66
+ORD089,Calvin Garcia,East,Electronics,Novel,9,359.56,26,Credit Card,Pending,Poor Packaging,3236.04,2394.67
+ORD090,Courtney English,East,Electronics,Shirt,16,177.58,44,UPI,Returned,Great Service,2841.28,1591.12
+ORD091,Tara Long,West,Clothing,Mobile,8,409.13,26,Cash,Delivered,Damaged Product,3273.04,2422.05
+ORD092,William Calderon,West,Books,Shirt,3,356.75,36,Cash,Returned,Late Delivery,1070.25,684.96
+ORD093,Justin Ortiz,North,Clothing,Headphones,15,490.14,6,Credit Card,Returned,Poor Packaging,7352.1,6910.97
+ORD094,Sara Mcclain,North,Toys,Shirt,14,466.58,26,Credit Card,Returned,Damaged Product,6532.12,4833.77
+ORD095,Justin Sutton,South,Toys,Shirt,14,107.22,18,Cash,Returned,Late Delivery,1501.08,1230.89
+ORD096,Stephanie Fitzpatrick,West,Clothing,Doll,5,388.63,15,Net Banking,Pending,Poor Packaging,1943.15,1651.68
+ORD097,Joseph Lynch,East,Clothing,Table,9,349.49,6,Credit Card,Delivered,Late Delivery,3145.41,2956.69
+ORD098,Alan Brown,East,Books,Table,7,155.27,44,Credit Card,Returned,Great Service,1086.89,608.66
+ORD099,Douglas Patterson,North,Toys,Chair,12,341.99,14,Cash,Pending,Excellent,4103.88,3529.34
+ORD100,Paul Robinson,South,Books,Headphones,16,132.92,6,Credit Card,Pending,Late Delivery,2126.72,1999.12
+ORD101,Samuel Hamilton,North,Toys,Chair,9,468.78,12,Net Banking,Pending,Average,4219.02,3712.74
+ORD102,Tami Rodriguez,South,Books,Chair,6,355.36,37,UPI,Pending,Excellent,2132.16,1343.26
+ORD103,Erin George,West,Toys,Novel,4,90.52,47,Net Banking,Returned,Poor Packaging,362.08,191.9
+ORD104,Stephanie Jackson,East,Electronics,Table,15,303.13,9,Net Banking,Pending,Great Service,4546.95,4137.72
+ORD105,Edgar Miller,South,Toys,Action Figure,13,387.39,24,UPI,Delivered,Damaged Product,5036.07,3827.41
+ORD106,Cynthia Wolfe,South,Clothing,Chair,14,499.28,16,UPI,Delivered,Late Delivery,6989.92,5871.53
+ORD107,Kristen Griffin,East,Furniture,Doll,6,221.12,47,Credit Card,Pending,Excellent,1326.72,703.16
+ORD108,Jennifer King,East,Books,Table,16,489.27,23,UPI,Delivered,Excellent,7828.32,6027.81
+ORD109,Kimberly Whitney,East,Electronics,Headphones,13,425.41,38,Net Banking,Returned,Late Delivery,5530.33,3428.8
+ORD110,Mrs. Tracy Noble,South,Toys,Headphones,19,285.08,27,UPI,Delivered,Damaged Product,5416.52,3954.06
+ORD111,Ryan Rogers,North,Furniture,Doll,19,323.9,30,UPI,Pending,Average,6154.1,4307.87
+ORD112,David Garza,West,Books,Doll,7,175.63,4,Credit Card,Pending,Damaged Product,1229.41,1180.23
+ORD113,Nicholas Shannon,North,Toys,Table,14,311.35,23,Credit Card,Pending,Excellent,4358.9,3356.35
+ORD114,Donald Marquez,West,Furniture,Doll,13,175.98,3,Cash,Delivered,Late Delivery,2287.74,2219.11
+ORD115,Barbara Simmons,North,Electronics,Novel,16,323.77,47,Credit Card,Pending,Damaged Product,5180.32,2745.57
+ORD116,Caitlin Jones,South,Electronics,Doll,5,324.59,19,Net Banking,Returned,Poor Packaging,1622.95,1314.59
+ORD117,Paula Valdez,South,Furniture,Chair,3,143.76,3,Credit Card,Delivered,Poor Packaging,431.28,418.34
+ORD118,Heather Camacho,South,Electronics,Jeans,5,128.67,16,Credit Card,Delivered,Damaged Product,643.35,540.41
+ORD119,John Dunn,South,Books,Jeans,7,357.57,13,Credit Card,Pending,Excellent,2502.99,2177.6
+ORD120,Kristen Cohen,East,Furniture,Jeans,17,76.08,30,Cash,Delivered,Average,1293.36,905.35
+ORD121,Jason Mccarty,East,Toys,Jeans,16,180.02,23,Cash,Returned,Poor Packaging,2880.32,2217.85
+ORD122,Karen Mooney,West,Clothing,Laptop,4,132.83,36,UPI,Pending,Late Delivery,531.32,340.04
+ORD123,Thomas Peterson,East,Toys,Novel,16,475.95,47,Cash,Pending,Damaged Product,7615.2,4036.06
+ORD124,Karen Brooks,East,Furniture,Jeans,5,156.29,7,Net Banking,Pending,Late Delivery,781.45,726.75
+ORD125,Brian Day,North,Clothing,Chair,9,465.98,17,Credit Card,Returned,Damaged Product,4193.82,3480.87
+ORD126,Chelsey Lewis,South,Electronics,Jeans,4,175.47,0,Credit Card,Pending,Poor Packaging,701.88,701.88
+ORD127,Jane Ball,East,Clothing,Jeans,9,213.22,35,Cash,Pending,Late Delivery,1918.98,1247.34
+ORD128,Bryan Gonzalez,East,Toys,Doll,17,364.76,45,Credit Card,Delivered,Great Service,6200.92,3410.51
+ORD129,John Morrison,East,Furniture,Chair,13,412.61,45,Net Banking,Pending,Damaged Product,5363.93,2950.16
+ORD130,Albert Campbell,West,Electronics,Novel,17,187.11,47,UPI,Delivered,Great Service,3180.87,1685.86
+ORD131,Bruce Williamson,North,Electronics,Laptop,8,237.01,9,Net Banking,Returned,Poor Packaging,1896.08,1725.43
+ORD132,Jason Garcia,East,Furniture,Headphones,7,97.82,17,Net Banking,Delivered,Excellent,684.74,568.33
+ORD133,Michael Dennis,North,Clothing,Chair,9,142.28,21,UPI,Pending,Damaged Product,1280.52,1011.61
+ORD134,Michael Pierce,North,Books,Chair,11,60.58,9,UPI,Pending,Great Service,666.38,606.41
+ORD135,Dr. David Benson Jr.,North,Books,Chair,11,50.94,10,Credit Card,Pending,Poor Packaging,560.34,504.31
+ORD136,Derek Lee,North,Books,Shirt,4,240.62,21,Cash,Returned,Excellent,962.48,760.36
+ORD137,Brenda Alvarez,South,Toys,Table,15,138.36,44,Cash,Delivered,Late Delivery,2075.4,1162.22
+ORD138,Brett Wilson DDS,East,Clothing,Chair,18,69.83,13,Credit Card,Returned,Great Service,1256.94,1093.54
+ORD139,Daniel Andrews,East,Clothing,Novel,16,199.09,49,Credit Card,Returned,Great Service,3185.44,1624.57
+ORD140,Robert Valdez,West,Furniture,Novel,7,209.2,17,Cash,Pending,Poor Packaging,1464.4,1215.45
+ORD141,Jennifer Roberts,South,Toys,Action Figure,2,82.93,24,UPI,Pending,Late Delivery,165.86,126.05
+ORD142,Jonathan Flores,West,Electronics,Action Figure,4,186.29,23,Cash,Delivered,Great Service,745.16,573.77
+ORD143,Mario Osborne,South,Furniture,Table,4,365.96,31,Net Banking,Delivered,Excellent,1463.84,1010.05
+ORD144,Jeffery Stephenson,West,Furniture,Novel,9,107.27,1,Cash,Pending,Late Delivery,965.43,955.78
+ORD145,Victoria Smith,North,Books,Jeans,3,294.93,36,Cash,Pending,Excellent,884.79,566.27
+ORD146,Richard Wise,East,Toys,Headphones,2,461.95,4,Net Banking,Delivered,Poor Packaging,923.9,886.94
+ORD147,Darren Oconnor,South,Furniture,Novel,6,289.47,4,Cash,Delivered,Poor Packaging,1736.82,1667.35
+ORD148,Brooke Wells,West,Books,Jeans,9,284.01,26,Cash,Delivered,Excellent,2556.09,1891.51
+ORD149,Emily Golden,South,Toys,Action Figure,11,448.46,37,UPI,Returned,Poor Packaging,4933.06,3107.83
+ORD150,Justin Simon,East,Books,Novel,16,441.59,36,Credit Card,Pending,Damaged Product,7065.44,4521.88
+ORD151,Courtney Harding,West,Clothing,Novel,3,265.28,29,Credit Card,Pending,Damaged Product,795.84,565.05
+ORD152,Brianna Kennedy,South,Electronics,Novel,11,487.61,39,Credit Card,Returned,Damaged Product,5363.71,3271.86
+ORD153,Robert Larson,East,Toys,Mobile,4,392.25,2,Cash,Returned,Poor Packaging,1569,1537.62
+ORD154,John Mendez,West,Books,Headphones,11,452.02,30,Credit Card,Delivered,Great Service,4972.22,3480.55
+ORD155,Brandon Wright,East,Toys,Chair,12,54.03,28,UPI,Returned,Damaged Product,648.36,466.82
+ORD156,Michele Rodriguez,East,Clothing,Chair,6,498.32,1,Net Banking,Returned,Poor Packaging,2989.92,2960.02
+ORD157,Haley Martinez,West,Toys,Doll,3,141.52,38,Net Banking,Pending,Late Delivery,424.56,263.23
+ORD158,Mary Ward,North,Furniture,Doll,10,282.71,4,Net Banking,Pending,Excellent,2827.1,2714.02
+ORD159,Jason Valenzuela,West,Furniture,Laptop,2,107.4,10,Credit Card,Pending,Great Service,214.8,193.32
+ORD160,Gerald Johnson,East,Electronics,Chair,10,321.03,6,Cash,Pending,Average,3210.3,3017.68
+ORD161,Mitchell Rose,South,Electronics,Action Figure,12,377.14,16,Net Banking,Delivered,Poor Packaging,4525.68,3801.57
+ORD162,Lisa Ferguson,North,Clothing,Table,5,320.53,12,UPI,Delivered,Excellent,1602.65,1410.33
+ORD163,Daniel Diaz,East,Clothing,Doll,3,272.38,20,UPI,Delivered,Late Delivery,817.14,653.71
+ORD164,Diane Vazquez,East,Furniture,Jeans,6,83.07,41,UPI,Pending,Damaged Product,498.42,294.07
+ORD165,Natalie Martin,West,Clothing,Shirt,4,359.31,44,Net Banking,Pending,Damaged Product,1437.24,804.85
+ORD166,Christopher Serrano,West,Furniture,Laptop,16,364.54,2,Cash,Returned,Late Delivery,5832.64,5715.99
+ORD167,Sara Turner,East,Electronics,Jeans,3,68.51,6,UPI,Delivered,Poor Packaging,205.53,193.2
+ORD168,Crystal Cole,East,Electronics,Laptop,8,354.94,26,Cash,Returned,Excellent,2839.52,2101.24
+ORD169,Evan Woods,South,Clothing,Shirt,10,74.22,49,Net Banking,Pending,Average,742.2,378.52
+ORD170,Briana Webb,North,Books,Novel,1,72.89,38,UPI,Delivered,Damaged Product,72.89,45.19
+ORD171,Michelle Wolf,East,Toys,Table,5,187.63,30,Net Banking,Delivered,Poor Packaging,938.15,656.7
+ORD172,Peter Rodriguez,South,Clothing,Novel,11,116.36,35,Cash,Returned,Excellent,1279.96,831.97
+ORD173,Janice Snyder,South,Electronics,Shirt,18,290.55,16,Credit Card,Delivered,Great Service,5229.9,4393.12
+ORD174,Jeffery Dawson,South,Books,Mobile,13,146,41,UPI,Delivered,Late Delivery,1898,1119.82
+ORD175,Michelle Porter,South,Toys,Mobile,14,368.01,10,Cash,Delivered,Average,5152.14,4636.93
+ORD176,Andrew Holmes,South,Clothing,Table,3,232.92,35,Credit Card,Delivered,Great Service,698.76,454.19
+ORD177,Jennifer Brown,West,Electronics,Novel,5,219.04,11,Cash,Pending,Great Service,1095.2,974.73
+ORD178,Tyler Nguyen,West,Toys,Chair,10,80.43,45,UPI,Pending,Late Delivery,804.3,442.36
+ORD179,Daniel Graham,East,Furniture,Mobile,5,449.28,15,Cash,Returned,Damaged Product,2246.4,1909.44
+ORD180,Jacob Williams,North,Toys,Doll,10,464.79,45,Net Banking,Returned,Late Delivery,4647.9,2556.34
+ORD181,Jay Thompson,East,Furniture,Chair,3,449.53,31,UPI,Pending,Damaged Product,1348.59,930.53
+ORD182,Sarah Mercer,South,Toys,Jeans,4,112.9,21,Net Banking,Returned,Excellent,451.6,356.76
+ORD183,Elizabeth Mason,North,Furniture,Action Figure,2,425.36,27,Credit Card,Returned,Average,850.72,621.03
+ORD184,Michelle Price,West,Furniture,Laptop,11,195.42,47,Credit Card,Delivered,Poor Packaging,2149.62,1139.3
+ORD185,Nicholas Holmes,North,Books,Shirt,14,155.39,26,Net Banking,Delivered,Poor Packaging,2175.46,1609.84
+ORD186,Frank Reed,North,Toys,Novel,8,476.46,12,Net Banking,Pending,Poor Packaging,3811.68,3354.28
+ORD187,Justin Collins,East,Toys,Headphones,5,266.85,19,Credit Card,Delivered,Average,1334.25,1080.74
+ORD188,Clayton Wilkerson,West,Furniture,Shirt,15,462.4,28,Net Banking,Pending,Excellent,6936,4993.92
+ORD189,Douglas Wagner,North,Clothing,Table,7,223.08,25,Net Banking,Delivered,Excellent,1561.56,1171.17
+ORD190,Mark Phillips,South,Books,Table,12,141.4,10,Net Banking,Delivered,Great Service,1696.8,1527.12
+ORD191,Lisa Gardner,North,Furniture,Doll,17,88.8,20,Cash,Returned,Average,1509.6,1207.68
+ORD192,Tina Wallace,East,Clothing,Doll,8,210.13,16,Net Banking,Returned,Excellent,1681.04,1412.07
+ORD193,Catherine Durham,East,Furniture,Jeans,13,104.45,25,Net Banking,Delivered,Damaged Product,1357.85,1018.39
+ORD194,Daniel Taylor,North,Toys,Chair,18,496.07,6,Net Banking,Returned,Poor Packaging,8929.26,8393.5
+ORD195,Richard Fletcher,North,Clothing,Mobile,18,101.49,27,Net Banking,Returned,Poor Packaging,1826.82,1333.58
+ORD196,Adam Carr,West,Clothing,Table,6,390.67,40,UPI,Delivered,Poor Packaging,2344.02,1406.41
+ORD197,Dr. Ashley Long,West,Clothing,Action Figure,9,75.46,34,UPI,Pending,Damaged Product,679.14,448.23
+ORD198,Karen Sellers DDS,East,Furniture,Action Figure,18,129.41,42,Cash,Delivered,Average,2329.38,1351.04
+ORD199,Andrew Castillo,West,Furniture,Jeans,2,142.15,7,Credit Card,Returned,Excellent,284.3,264.4
+ORD200,Kimberly Newman,East,Electronics,Mobile,13,239.85,43,UPI,Delivered,Late Delivery,3118.05,1777.29
+ORD201,Steven Mcbride,East,Clothing,Action Figure,17,408.03,16,Credit Card,Pending,Great Service,6936.51,5826.67
+ORD202,Mrs. Rachel Carpenter,East,Furniture,Shirt,19,165.53,29,UPI,Pending,Damaged Product,3145.07,2233
+ORD203,Anita Rosario,West,Clothing,Headphones,6,474.21,10,Net Banking,Returned,Poor Packaging,2845.26,2560.73
+ORD204,Leah Miller,South,Furniture,Jeans,16,367.98,34,Net Banking,Delivered,Great Service,5887.68,3885.87
+ORD205,Nathaniel Weaver,South,Toys,Shirt,9,139.05,2,Cash,Returned,Average,1251.45,1226.42
+ORD206,Jessica Robinson,North,Clothing,Novel,2,82.49,32,Cash,Delivered,Average,164.98,112.19
+ORD207,Michelle Valdez DDS,East,Electronics,Headphones,13,487.13,43,Credit Card,Returned,Late Delivery,6332.69,3609.63
+ORD208,Marcus Newman,North,Toys,Table,7,202.84,34,Net Banking,Pending,Damaged Product,1419.88,937.12
+ORD209,Katherine Thompson,North,Clothing,Mobile,15,419.88,32,Net Banking,Returned,Average,6298.2,4282.78
+ORD210,Kyle Sims,East,Electronics,Chair,7,238.52,26,Cash,Pending,Average,1669.64,1235.53
+ORD211,Dawn Sanchez,South,Furniture,Novel,6,318.82,1,Cash,Returned,Average,1912.92,1893.79
+ORD212,Brandon Shields,East,Electronics,Shirt,3,167.97,48,UPI,Pending,Excellent,503.91,262.03
+ORD213,Tamara Rogers,West,Books,Shirt,18,323.62,2,UPI,Returned,Excellent,5825.16,5708.66
+ORD214,Todd Joyce,North,Clothing,Action Figure,18,344.88,28,Cash,Pending,Poor Packaging,6207.84,4469.64
+ORD215,Deborah York,South,Toys,Novel,9,191.15,35,UPI,Pending,Poor Packaging,1720.35,1118.23
+ORD216,Dennis Gomez,West,Toys,Headphones,1,429.45,23,Credit Card,Delivered,Average,429.45,330.68
+ORD217,Lisa Johnson,East,Toys,Jeans,14,467.64,33,Cash,Pending,Damaged Product,6546.96,4386.46
+ORD218,Douglas Garza,South,Clothing,Chair,4,296.18,4,Cash,Returned,Damaged Product,1184.72,1137.33
+ORD219,Danielle Russell,South,Clothing,Shirt,8,103.05,39,UPI,Returned,Excellent,824.4,502.88
+ORD220,Zachary Cook,East,Electronics,Headphones,18,250.69,19,Cash,Delivered,Excellent,4512.42,3655.06
+ORD221,Melanie Hall,West,Clothing,Jeans,2,285.88,40,Credit Card,Returned,Damaged Product,571.76,343.06
+ORD222,Jennifer Schwartz,West,Clothing,Action Figure,2,189.27,49,UPI,Pending,Poor Packaging,378.54,193.06
+ORD223,Mark Rogers,East,Furniture,Action Figure,6,499.47,20,UPI,Delivered,Late Delivery,2996.82,2397.46
+ORD224,Andrew Jackson,East,Electronics,Mobile,14,101.58,7,Credit Card,Returned,Damaged Product,1422.12,1322.57
+ORD225,Olivia Velasquez,East,Toys,Chair,5,73.63,25,Net Banking,Returned,Great Service,368.15,276.11
+ORD226,James Kane,North,Books,Mobile,12,93.69,28,Cash,Delivered,Average,1124.28,809.48
+ORD227,Katherine Burke,East,Books,Chair,16,156.39,17,UPI,Pending,Great Service,2502.24,2076.86
+ORD228,Shawn Smith,West,Clothing,Chair,9,195.33,3,Cash,Returned,Damaged Product,1757.97,1705.23
+ORD229,Jennifer Roberts,North,Furniture,Novel,12,212.52,37,UPI,Returned,Damaged Product,2550.24,1606.65
+ORD230,Luis Shepherd,East,Furniture,Shirt,8,485.72,24,Net Banking,Delivered,Average,3885.76,2953.18
+ORD231,Phillip Skinner,East,Furniture,Shirt,16,392.09,26,Net Banking,Returned,Excellent,6273.44,4642.35
+ORD232,Jaime Lopez,East,Toys,Action Figure,5,257.63,49,Credit Card,Returned,Great Service,1288.15,656.96
+ORD233,Erin Thompson,West,Toys,Novel,8,228.06,0,UPI,Returned,Poor Packaging,1824.48,1824.48
+ORD234,Michael Shaffer,South,Books,Shirt,3,467.21,13,Net Banking,Returned,Excellent,1401.63,1219.42
+ORD235,Kayla Clark,South,Electronics,Shirt,11,480.69,27,UPI,Pending,Excellent,5287.59,3859.94
+ORD236,Kaitlyn Harris,South,Clothing,Table,8,277.85,25,UPI,Returned,Great Service,2222.8,1667.1
+ORD237,Nichole Simpson,East,Books,Doll,18,463.06,0,UPI,Pending,Average,8335.08,8335.08
+ORD238,Erica Adams,South,Furniture,Laptop,15,69.6,23,UPI,Returned,Great Service,1044,803.88
+ORD239,Kenneth Mann,South,Furniture,Action Figure,8,319.54,11,UPI,Pending,Great Service,2556.32,2275.12
+ORD240,Debra Klein,West,Books,Table,3,319.5,43,UPI,Returned,Excellent,958.5,546.34
+ORD241,Donald Pham,North,Toys,Chair,8,135.04,35,Cash,Pending,Damaged Product,1080.32,702.21
+ORD242,Jeffrey Maldonado,South,Clothing,Jeans,12,269.75,18,UPI,Delivered,Poor Packaging,3237,2654.34
+ORD243,Christopher Wilkins,East,Electronics,Mobile,17,264.34,8,Cash,Delivered,Average,4493.78,4134.28
+ORD244,Willie Kelley,West,Toys,Mobile,17,202.05,10,Credit Card,Delivered,Damaged Product,3434.85,3091.36
+ORD245,John Navarro,East,Electronics,Mobile,17,394.88,28,Cash,Returned,Great Service,6712.96,4833.33
+ORD246,Christina West MD,East,Electronics,Shirt,12,59.85,22,Credit Card,Pending,Excellent,718.2,560.2
+ORD247,Jean Brown,North,Furniture,Table,3,346.09,40,Credit Card,Delivered,Late Delivery,1038.27,622.96
+ORD248,Christina Smith,East,Toys,Jeans,10,340.83,34,Credit Card,Returned,Damaged Product,3408.3,2249.48
+ORD249,Crystal Duncan,West,Electronics,Doll,15,68.63,38,Cash,Pending,Poor Packaging,1029.45,638.26
+ORD250,Stephen Perkins,West,Clothing,Mobile,7,476.77,10,Net Banking,Pending,Late Delivery,3337.39,3003.65
+ORD251,Kristina Whitehead,South,Books,Laptop,9,319.55,33,UPI,Pending,Late Delivery,2875.95,1926.89
+ORD252,Michael Patel,West,Clothing,Doll,2,479.65,12,Cash,Pending,Excellent,959.3,844.18
+ORD253,Michelle Daniels,South,Books,Chair,3,141.48,28,Net Banking,Returned,Damaged Product,424.44,305.6
+ORD254,Dr. Carolyn Swanson,South,Clothing,Jeans,14,304.4,29,Cash,Pending,Poor Packaging,4261.6,3025.74
+ORD255,Joel Sexton,North,Toys,Doll,10,393.69,19,UPI,Delivered,Damaged Product,3936.9,3188.89
+ORD256,Jonathan Armstrong,South,Clothing,Action Figure,11,352.53,41,Cash,Pending,Great Service,3877.83,2287.92
+ORD257,Edward Green,West,Clothing,Mobile,14,475.33,28,UPI,Delivered,Average,6654.62,4791.33
+ORD258,Veronica Harris,West,Electronics,Headphones,4,407.43,49,UPI,Delivered,Damaged Product,1629.72,831.16
+ORD259,Cynthia Rivers,East,Furniture,Chair,10,203.94,31,Cash,Pending,Great Service,2039.4,1407.19
+ORD260,Erin Gonzalez PhD,West,Furniture,Action Figure,14,204.54,27,Net Banking,Pending,Average,2863.56,2090.4
+ORD261,Thomas Martinez,West,Toys,Action Figure,7,397.69,36,Net Banking,Pending,Poor Packaging,2783.83,1781.65
+ORD262,Robert Bentley,West,Furniture,Novel,12,463.72,34,UPI,Returned,Average,5564.64,3672.66
+ORD263,Valerie Wilson,East,Books,Jeans,12,145.92,32,Net Banking,Delivered,Poor Packaging,1751.04,1190.71
+ORD264,Jennifer Prince,South,Electronics,Novel,13,306.32,20,UPI,Delivered,Average,3982.16,3185.73
+ORD265,Brandon Andrews,North,Electronics,Shirt,5,438.92,7,Cash,Delivered,Late Delivery,2194.6,2040.98
+ORD266,Courtney Montgomery,North,Books,Headphones,13,444.48,37,Cash,Returned,Poor Packaging,5778.24,3640.29
+ORD267,Randy Webb,West,Electronics,Jeans,11,303.75,29,UPI,Returned,Damaged Product,3341.25,2372.29
+ORD268,Matthew Simpson,East,Electronics,Mobile,12,144.33,24,Net Banking,Pending,Average,1731.96,1316.29
+ORD269,Steve Alvarez,South,Toys,Action Figure,14,464.9,37,Net Banking,Returned,Excellent,6508.6,4100.42
+ORD270,Crystal Martin,West,Furniture,Laptop,19,108.4,42,Net Banking,Returned,Excellent,2059.6,1194.57
+ORD271,Janice Mccoy,West,Books,Headphones,17,261.7,48,Net Banking,Pending,Poor Packaging,4448.9,2313.43
+ORD272,Hannah Patrick,West,Electronics,Laptop,14,277.76,34,UPI,Delivered,Average,3888.64,2566.5
+ORD273,Michael Webb,South,Furniture,Action Figure,14,462.38,17,Credit Card,Pending,Poor Packaging,6473.32,5372.86
+ORD274,Arthur Hopkins,West,Electronics,Novel,14,267.98,36,Cash,Returned,Damaged Product,3751.72,2401.1
+ORD275,Sarah Roy,South,Electronics,Headphones,6,88.91,48,Credit Card,Delivered,Poor Packaging,533.46,277.4
+ORD276,Terri Flowers,North,Toys,Jeans,4,119.72,29,UPI,Delivered,Average,478.88,340
+ORD277,Brady Klein,North,Clothing,Mobile,15,211.14,14,Net Banking,Delivered,Excellent,3167.1,2723.71
+ORD278,Victor Mcdonald,West,Furniture,Action Figure,16,77.89,15,Cash,Returned,Damaged Product,1246.24,1059.3
+ORD279,Gregory Keller,South,Furniture,Action Figure,4,447.48,38,Credit Card,Delivered,Late Delivery,1789.92,1109.75
+ORD280,Holly Greene,South,Clothing,Mobile,7,203.55,6,Credit Card,Delivered,Excellent,1424.85,1339.36
+ORD281,Lydia Martinez,West,Furniture,Laptop,18,342.79,33,Cash,Pending,Poor Packaging,6170.22,4134.05
+ORD282,Heather Woodward,West,Furniture,Jeans,8,414.69,20,Cash,Delivered,Poor Packaging,3317.52,2654.02
+ORD283,Peter Graham,West,Furniture,Doll,11,252.44,37,UPI,Pending,Damaged Product,2776.84,1749.41
+ORD284,Jessica Graham,East,Clothing,Action Figure,6,440.49,47,Credit Card,Pending,Average,2642.94,1400.76
+ORD285,Nicole Love,South,Toys,Headphones,19,360.71,22,Credit Card,Returned,Average,6853.49,5345.72
+ORD286,James Yang,North,Furniture,Novel,11,200.41,6,UPI,Pending,Great Service,2204.51,2072.24
+ORD287,Ricky Mitchell,West,Clothing,Table,19,83.1,38,Credit Card,Pending,Late Delivery,1578.9,978.92
+ORD288,Bonnie Bowers,North,Clothing,Novel,1,320.08,30,Net Banking,Delivered,Late Delivery,320.08,224.06
+ORD289,Eric Roberson,East,Books,Chair,10,87.36,20,Cash,Pending,Late Delivery,873.6,698.88
+ORD290,Autumn Jones,South,Toys,Laptop,9,313.88,2,UPI,Pending,Average,2824.92,2768.42
+ORD291,Marie Holloway,East,Toys,Headphones,1,396.6,8,UPI,Delivered,Excellent,396.6,364.87
+ORD292,Brian Hill,North,Toys,Table,8,55.36,10,Net Banking,Delivered,Poor Packaging,442.88,398.59
+ORD293,Michael Thompson,South,Books,Action Figure,8,402.09,19,Net Banking,Returned,Damaged Product,3216.72,2605.54
+ORD294,Brandon Bowers,South,Electronics,Action Figure,15,239.54,10,Cash,Delivered,Late Delivery,3593.1,3233.79
+ORD295,Mrs. Jennifer Whitaker,South,Books,Doll,16,280.96,37,UPI,Delivered,Poor Packaging,4495.36,2832.08
+ORD296,Steven Burke,North,Furniture,Mobile,16,280.77,9,Credit Card,Delivered,Damaged Product,4492.32,4088.01
+ORD297,Emily Davila,West,Clothing,Mobile,19,297.01,10,Net Banking,Pending,Great Service,5643.19,5078.87
+ORD298,Kelly Donaldson,East,Electronics,Action Figure,7,412.97,43,UPI,Delivered,Late Delivery,2890.79,1647.75
+ORD299,Catherine Smith,South,Clothing,Mobile,16,302.74,10,UPI,Returned,Average,4843.84,4359.46
+ORD300,Jennifer Adams,North,Clothing,Novel,8,89.69,21,Cash,Pending,Excellent,717.52,566.84
+ORD301,Amy Douglas,West,Books,Jeans,11,118.62,3,UPI,Returned,Poor Packaging,1304.82,1265.68
+ORD302,Mr. Andrew White,East,Electronics,Shirt,4,358.68,1,Net Banking,Delivered,Great Service,1434.72,1420.37
+ORD303,Stephen Green,West,Furniture,Action Figure,10,478.06,46,Net Banking,Returned,Late Delivery,4780.6,2581.52
+ORD304,Susan Cox,West,Toys,Table,13,281.67,20,Credit Card,Returned,Late Delivery,3661.71,2929.37
+ORD305,Christopher Shields,West,Furniture,Action Figure,7,429.48,45,Cash,Returned,Average,3006.36,1653.5
+ORD306,Eric Johnston,West,Books,Table,12,264.72,29,UPI,Pending,Excellent,3176.64,2255.41
+ORD307,Tina Walker,East,Electronics,Laptop,1,70.92,14,UPI,Pending,Excellent,70.92,60.99
+ORD308,Theresa Greene,North,Toys,Jeans,8,281.01,25,Cash,Returned,Average,2248.08,1686.06
+ORD309,Michael Anderson,North,Furniture,Shirt,4,400.5,0,Cash,Delivered,Poor Packaging,1602,1602
+ORD310,Lisa Patterson,East,Electronics,Laptop,15,85.15,42,UPI,Delivered,Average,1277.25,740.8
+ORD311,Jody Sheppard,East,Electronics,Action Figure,10,429.27,40,Credit Card,Pending,Damaged Product,4292.7,2575.62
+ORD312,Gerald Evans,East,Toys,Jeans,16,174.08,1,Cash,Returned,Average,2785.28,2757.43
+ORD313,Carl White,West,Furniture,Chair,8,490.79,38,Net Banking,Pending,Poor Packaging,3926.32,2434.32
+ORD314,Jaclyn Marks,North,Toys,Table,1,193.19,47,Cash,Returned,Late Delivery,193.19,102.39
+ORD315,Eugene Gallegos,East,Books,Table,2,208.53,6,UPI,Delivered,Average,417.06,392.04
+ORD316,Angela Taylor,East,Electronics,Chair,7,363.94,4,Credit Card,Returned,Great Service,2547.58,2445.68
+ORD317,Connie Daniel,West,Electronics,Shirt,13,428.61,20,Net Banking,Returned,Great Service,5571.93,4457.54
+ORD318,Christopher Webster,East,Electronics,Shirt,5,133.66,39,Cash,Delivered,Average,668.3,407.66
+ORD319,Andrew Ellis,East,Books,Mobile,19,468.8,45,UPI,Pending,Excellent,8907.2,4898.96
+ORD320,Chase Wright,South,Furniture,Mobile,8,472.11,44,UPI,Delivered,Late Delivery,3776.88,2115.05
+ORD321,Jessica Davis,North,Furniture,Jeans,14,351.26,47,Net Banking,Pending,Damaged Product,4917.64,2606.35
+ORD322,Chris Mann,South,Toys,Shirt,1,262.29,41,Net Banking,Pending,Late Delivery,262.29,154.75
+ORD323,Gina Morris,East,Toys,Chair,8,415.57,23,UPI,Delivered,Poor Packaging,3324.56,2559.91
+ORD324,Jonathan Strickland,South,Clothing,Doll,15,167.07,41,Credit Card,Pending,Great Service,2506.05,1478.57
+ORD325,Stephanie Villa,North,Books,Jeans,8,167.37,34,Credit Card,Pending,Great Service,1338.96,883.71
+ORD326,Shannon Price,East,Clothing,Mobile,17,156.29,39,Cash,Returned,Poor Packaging,2656.93,1620.73
+ORD327,Tamara Mcfarland,South,Furniture,Novel,18,171.42,19,Cash,Delivered,Excellent,3085.56,2499.3
+ORD328,Kristina Stevens,South,Toys,Table,18,422.46,7,Credit Card,Pending,Poor Packaging,7604.28,7071.98
+ORD329,Sherri Mitchell,North,Clothing,Headphones,13,158.03,13,Credit Card,Returned,Excellent,2054.39,1787.32
+ORD330,Luis King,West,Books,Table,11,125.65,38,Cash,Pending,Damaged Product,1382.15,856.93
+ORD331,Michael Craig,North,Furniture,Chair,19,78.91,47,Credit Card,Returned,Late Delivery,1499.29,794.62
+ORD332,Lauren Flores,West,Furniture,Doll,6,125.45,0,UPI,Returned,Poor Packaging,752.7,752.7
+ORD333,Marc Chung,South,Furniture,Headphones,4,424.5,27,UPI,Delivered,Excellent,1698,1239.54
+ORD334,Taylor Mcgrath,South,Electronics,Shirt,2,430.31,27,UPI,Pending,Damaged Product,860.62,628.25
+ORD335,Catherine Williams,South,Toys,Shirt,14,404.36,17,UPI,Delivered,Excellent,5661.04,4698.66
+ORD336,Brandon Silva,East,Furniture,Doll,16,243.32,20,UPI,Delivered,Poor Packaging,3893.12,3114.5
+ORD337,Stephanie Mendez,North,Clothing,Doll,1,83.49,15,Cash,Pending,Poor Packaging,83.49,70.97
+ORD338,Cynthia Castaneda,South,Toys,Shirt,16,457,12,Net Banking,Returned,Late Delivery,7312,6434.56
+ORD339,Brittany Johnson,South,Clothing,Laptop,3,95.26,24,Credit Card,Pending,Late Delivery,285.78,217.19
+ORD340,Kristine Long,West,Electronics,Jeans,8,217.16,23,Credit Card,Returned,Poor Packaging,1737.28,1337.71
+ORD341,Michael Robinson,West,Clothing,Action Figure,8,262.31,7,Cash,Delivered,Late Delivery,2098.48,1951.59
+ORD342,Jasmine Jackson,East,Toys,Headphones,8,101.06,30,Cash,Delivered,Damaged Product,808.48,565.94
+ORD343,Teresa Sellers,South,Electronics,Jeans,14,332.49,3,Credit Card,Returned,Late Delivery,4654.86,4515.21
+ORD344,Anthony Thompson,South,Books,Laptop,5,226.91,43,Cash,Delivered,Late Delivery,1134.55,646.69
+ORD345,Ian Perkins,West,Electronics,Jeans,2,408.36,48,UPI,Delivered,Great Service,816.72,424.69
+ORD346,Antonio Weiss,East,Books,Novel,19,458.81,1,Cash,Returned,Average,8717.39,8630.22
+ORD347,Craig Williams,South,Clothing,Headphones,8,357.27,18,Credit Card,Returned,Damaged Product,2858.16,2343.69
+ORD348,Bryan Boyd,North,Books,Headphones,13,307.71,37,UPI,Delivered,Average,4000.23,2520.14
+ORD349,Jody Martinez,East,Toys,Chair,13,89.5,45,Cash,Delivered,Poor Packaging,1163.5,639.93
+ORD350,Erin Vazquez,West,Furniture,Mobile,12,264.3,19,Cash,Delivered,Excellent,3171.6,2569
+ORD351,Mark Adams,East,Books,Mobile,14,221.35,35,UPI,Returned,Great Service,3098.9,2014.28
+ORD352,Darren Fernandez,North,Books,Laptop,18,152.11,22,Net Banking,Delivered,Average,2737.98,2135.62
+ORD353,Toni Scott,North,Clothing,Headphones,2,421.15,31,Cash,Returned,Great Service,842.3,581.19
+ORD354,Tina Scott,East,Books,Laptop,19,379.02,47,Cash,Delivered,Poor Packaging,7201.38,3816.73
+ORD355,Cynthia Williams,North,Toys,Jeans,12,95.76,4,Credit Card,Returned,Damaged Product,1149.12,1103.16
+ORD356,Stephanie Anderson,South,Toys,Mobile,4,286.52,26,Net Banking,Returned,Late Delivery,1146.08,848.1
+ORD357,Bryan Luna,North,Clothing,Laptop,4,243.03,47,Net Banking,Pending,Excellent,972.12,515.22
+ORD358,Patricia Brown,North,Books,Headphones,9,427.53,35,Net Banking,Delivered,Late Delivery,3847.77,2501.05
+ORD359,Alexander King,East,Clothing,Table,1,268.39,31,Net Banking,Delivered,Damaged Product,268.39,185.19
+ORD360,Kathryn Ellison,West,Books,Laptop,10,287.36,22,Cash,Pending,Late Delivery,2873.6,2241.41
+ORD361,Rhonda Lopez,West,Furniture,Table,17,367.99,1,Cash,Returned,Late Delivery,6255.83,6193.27
+ORD362,Mark Robinson,South,Books,Table,10,188.73,29,Net Banking,Delivered,Damaged Product,1887.3,1339.98
+ORD363,Jacqueline Thomas,North,Clothing,Headphones,10,71.07,48,Net Banking,Delivered,Great Service,710.7,369.56
+ORD364,Jonathan Pineda,South,Toys,Chair,18,309.48,41,UPI,Pending,Damaged Product,5570.64,3286.68
+ORD365,Amy Buckley,East,Toys,Shirt,16,132.29,14,UPI,Pending,Damaged Product,2116.64,1820.31
+ORD366,Randall Dodson,South,Books,Action Figure,2,160.75,43,UPI,Delivered,Excellent,321.5,183.26
+ORD367,Jeffrey Harris,West,Books,Headphones,3,295.24,3,Cash,Delivered,Great Service,885.72,859.15
+ORD368,Patricia Scott,North,Clothing,Doll,14,59.74,31,Credit Card,Returned,Average,836.36,577.09
+ORD369,Paige Bryant,North,Clothing,Mobile,13,159.91,31,Credit Card,Delivered,Average,2078.83,1434.39
+ORD370,Mr. Alexander Rodriguez,East,Clothing,Mobile,15,478.62,4,Cash,Returned,Late Delivery,7179.3,6892.13
+ORD371,Charles Ross,East,Toys,Shirt,3,345.28,7,Net Banking,Delivered,Late Delivery,1035.84,963.33
+ORD372,Belinda Jennings,West,Toys,Mobile,2,159.51,14,Cash,Pending,Damaged Product,319.02,274.36
+ORD373,Ms. Shannon Long PhD,North,Furniture,Jeans,17,450.7,31,Net Banking,Pending,Excellent,7661.9,5286.71
+ORD374,Sabrina Murray,South,Furniture,Jeans,15,287.85,37,Net Banking,Pending,Poor Packaging,4317.75,2720.18
+ORD375,Danielle Hall,East,Furniture,Headphones,7,416.58,30,Net Banking,Pending,Excellent,2916.06,2041.24
+ORD376,Abigail Archer,North,Books,Novel,1,492.71,20,Credit Card,Delivered,Late Delivery,492.71,394.17
+ORD377,Jason Brown,North,Books,Headphones,5,285.63,18,UPI,Returned,Average,1428.15,1171.08
+ORD378,Anthony Sweeney,South,Clothing,Shirt,11,429.92,4,Cash,Pending,Average,4729.12,4539.96
+ORD379,Patricia Wang,West,Toys,Table,13,55.47,30,UPI,Pending,Average,721.11,504.78
+ORD380,Jessica Berry,East,Furniture,Chair,6,344.78,19,Cash,Delivered,Great Service,2068.68,1675.63
+ORD381,Cassandra Lane,East,Toys,Headphones,19,382.57,37,Cash,Delivered,Poor Packaging,7268.83,4579.36
+ORD382,Dr. Jennifer Carey,West,Electronics,Mobile,13,65.43,23,Net Banking,Pending,Damaged Product,850.59,654.95
+ORD383,Michael Burns,North,Furniture,Table,15,297.42,29,Credit Card,Pending,Average,4461.3,3167.52
+ORD384,Jennifer White,West,Toys,Headphones,9,463.12,42,UPI,Delivered,Poor Packaging,4168.08,2417.49
+ORD385,Cory Baldwin,East,Books,Action Figure,2,51.65,11,Credit Card,Delivered,Great Service,103.3,91.94
+ORD386,William Moran,East,Toys,Action Figure,15,417.15,2,Net Banking,Pending,Average,6257.25,6132.1
+ORD387,Alex Smith,North,Clothing,Novel,12,121.34,3,Cash,Delivered,Late Delivery,1456.08,1412.4
+ORD388,Mary Harrington,West,Electronics,Action Figure,5,119.68,8,Net Banking,Returned,Poor Packaging,598.4,550.53
+ORD389,Sean Black,North,Electronics,Chair,11,247.34,9,UPI,Returned,Damaged Product,2720.74,2475.87
+ORD390,Steven Gutierrez,South,Electronics,Action Figure,2,405.99,35,Cash,Pending,Late Delivery,811.98,527.79
+ORD391,Sally Scott,West,Toys,Jeans,9,434.91,25,Cash,Returned,Late Delivery,3914.19,2935.64
+ORD392,Cassidy Dunn,East,Toys,Mobile,11,211.99,34,UPI,Pending,Late Delivery,2331.89,1539.05
+ORD393,Jennifer Rogers,East,Furniture,Mobile,8,317.83,18,UPI,Returned,Late Delivery,2542.64,2084.96
+ORD394,Daniel Ayers,East,Books,Novel,7,307.56,44,UPI,Returned,Average,2152.92,1205.64
+ORD395,Terry Hess,North,Toys,Table,6,443.36,38,Cash,Returned,Late Delivery,2660.16,1649.3
+ORD396,Patricia Schroeder,West,Electronics,Doll,3,393.19,9,UPI,Returned,Late Delivery,1179.57,1073.41
+ORD397,Brian Coleman,West,Electronics,Doll,5,358.86,30,Net Banking,Pending,Damaged Product,1794.3,1256.01
+ORD398,Michael Gonzalez,West,Toys,Novel,16,269.34,13,UPI,Pending,Damaged Product,4309.44,3749.21
+ORD399,Mark Reed,East,Furniture,Mobile,10,54.55,38,Credit Card,Pending,Poor Packaging,545.5,338.21
+ORD400,Priscilla Henry,South,Toys,Table,18,247.04,16,Credit Card,Pending,Late Delivery,4446.72,3735.24
+ORD401,Ian Montgomery,North,Toys,Action Figure,4,98.89,22,UPI,Delivered,Average,395.56,308.54
+ORD402,Christine Marshall,West,Clothing,Laptop,10,67.08,35,Credit Card,Pending,Average,670.8,436.02
+ORD403,Edward Brock,East,Furniture,Novel,18,380.16,24,UPI,Returned,Great Service,6842.88,5200.59
+ORD404,Holly Smith,West,Books,Shirt,7,496.66,38,Net Banking,Returned,Poor Packaging,3476.62,2155.5
+ORD405,Dr. Ann Yoder,West,Electronics,Shirt,18,276.01,14,Cash,Delivered,Poor Packaging,4968.18,4272.63
+ORD406,Kim Smith,East,Electronics,Mobile,15,221.78,26,UPI,Delivered,Poor Packaging,3326.7,2461.76
+ORD407,Thomas Francis,South,Clothing,Laptop,1,114.64,22,Credit Card,Pending,Late Delivery,114.64,89.42
+ORD408,Rebecca Barton,East,Electronics,Laptop,6,448.71,18,UPI,Delivered,Poor Packaging,2692.26,2207.65
+ORD409,Jean Young,West,Books,Chair,16,384.83,14,Net Banking,Returned,Damaged Product,6157.28,5295.26
+ORD410,Dennis Malone,North,Books,Jeans,8,137.79,33,Credit Card,Delivered,Damaged Product,1102.32,738.55
+ORD411,Jessica Anthony,North,Books,Chair,17,286.05,43,Cash,Pending,Excellent,4862.85,2771.82
+ORD412,David Hill,East,Electronics,Shirt,8,420.3,0,UPI,Returned,Poor Packaging,3362.4,3362.4
+ORD413,Brent Garcia,East,Clothing,Novel,11,80.52,16,Credit Card,Pending,Late Delivery,885.72,744
+ORD414,Larry Hunter,West,Electronics,Headphones,6,458.63,48,Net Banking,Delivered,Great Service,2751.78,1430.93
+ORD415,Cheryl Torres,South,Clothing,Novel,3,118.62,32,Net Banking,Pending,Great Service,355.86,241.98
+ORD416,Andrea Palmer,West,Clothing,Table,3,465.45,29,UPI,Pending,Great Service,1396.35,991.41
+ORD417,Brandy Norman,West,Clothing,Doll,6,426.45,25,Net Banking,Returned,Average,2558.7,1919.02
+ORD418,Jennifer Jacobs,North,Furniture,Chair,2,247.33,9,UPI,Pending,Average,494.66,450.14
+ORD419,Brandon Carey,East,Toys,Shirt,17,350.73,48,Credit Card,Pending,Great Service,5962.41,3100.45
+ORD420,Nicole Moses,North,Furniture,Chair,17,415.1,38,Credit Card,Pending,Average,7056.7,4375.15
+ORD421,Denise Hill,East,Electronics,Chair,2,303.28,31,UPI,Returned,Late Delivery,606.56,418.53
+ORD422,Jeremy Andrews,North,Toys,Chair,7,448.38,36,UPI,Delivered,Poor Packaging,3138.66,2008.74
+ORD423,Zachary Jones,South,Books,Shirt,7,472.48,34,Cash,Delivered,Poor Packaging,3307.36,2182.86
+ORD424,Rodney Garcia,North,Electronics,Jeans,12,460.02,31,Net Banking,Pending,Poor Packaging,5520.24,3808.97
+ORD425,Charles Romero,South,Toys,Laptop,4,87.32,44,UPI,Delivered,Poor Packaging,349.28,195.6
+ORD426,Scott Whitaker,North,Electronics,Mobile,9,363.67,2,Credit Card,Delivered,Poor Packaging,3273.03,3207.57
+ORD427,Corey Walker,West,Books,Chair,7,369.06,2,UPI,Pending,Damaged Product,2583.42,2531.75
+ORD428,Adam Davis,North,Clothing,Shirt,4,149.75,20,Net Banking,Delivered,Average,599,479.2
+ORD429,Dana Pitts,South,Clothing,Jeans,19,239.91,23,UPI,Pending,Late Delivery,4558.29,3509.88
+ORD430,Gina Stein,North,Clothing,Action Figure,10,219.18,30,UPI,Delivered,Average,2191.8,1534.26
+ORD431,Joseph Carlson,North,Electronics,Chair,9,442.03,23,UPI,Delivered,Damaged Product,3978.27,3063.27
+ORD432,Keith Foster,South,Books,Table,15,430.52,1,Cash,Pending,Late Delivery,6457.8,6393.22
+ORD433,Sean Coleman,West,Toys,Action Figure,12,333.75,16,Cash,Delivered,Damaged Product,4005,3364.2
+ORD434,Lori Martinez,West,Electronics,Table,5,338.52,3,Net Banking,Pending,Late Delivery,1692.6,1641.82
+ORD435,Jenna Sloan,South,Books,Chair,10,201.75,13,Net Banking,Pending,Great Service,2017.5,1755.22
+ORD436,Dominic Mendez,North,Books,Doll,5,376.09,18,Cash,Pending,Poor Packaging,1880.45,1541.97
+ORD437,Alisha Griffin,South,Electronics,Table,5,238.72,21,UPI,Returned,Poor Packaging,1193.6,942.94
+ORD438,Christine Shaffer,South,Clothing,Chair,8,89.36,14,Credit Card,Pending,Late Delivery,714.88,614.8
+ORD439,Gary Aguirre,East,Furniture,Chair,7,73.7,27,Credit Card,Returned,Average,515.9,376.61
+ORD440,Lisa Johnson,East,Furniture,Shirt,14,467.26,22,Net Banking,Returned,Average,6541.64,5102.48
+ORD441,Theodore Davis,South,Toys,Novel,12,239.14,29,Cash,Delivered,Poor Packaging,2869.68,2037.47
+ORD442,Amanda Hudson,East,Clothing,Action Figure,9,319.48,22,Net Banking,Delivered,Excellent,2875.32,2242.75
+ORD443,Jennifer Marquez,West,Furniture,Table,13,341.07,42,Cash,Returned,Damaged Product,4433.91,2571.67
+ORD444,John Murphy,West,Books,Headphones,7,364.7,41,UPI,Returned,Late Delivery,2552.9,1506.21
+ORD445,Stacy Kelley,South,Furniture,Mobile,18,99.5,32,Net Banking,Pending,Great Service,1791,1217.88
+ORD446,Tonya Morales,West,Books,Doll,13,476.18,41,Credit Card,Pending,Damaged Product,6190.34,3652.3
+ORD447,Ashley Watson,South,Toys,Shirt,19,101.29,13,Net Banking,Returned,Great Service,1924.51,1674.32
+ORD448,Brent Hale,East,Clothing,Novel,9,448.08,12,Cash,Delivered,Late Delivery,4032.72,3548.79
+ORD449,Sean Brown,West,Books,Jeans,14,440.78,26,Net Banking,Delivered,Great Service,6170.92,4566.48
+ORD450,Michael Pineda,South,Furniture,Headphones,2,423.47,14,UPI,Returned,Poor Packaging,846.94,728.37
+ORD451,Kelly Jackson,North,Books,Shirt,12,201.37,11,Credit Card,Returned,Excellent,2416.44,2150.63
+ORD452,Rebecca Gomez,North,Toys,Laptop,14,98.94,5,Credit Card,Returned,Great Service,1385.16,1315.9
+ORD453,Gregory Sanchez,North,Toys,Novel,4,183.53,41,Cash,Delivered,Damaged Product,734.12,433.13
+ORD454,Christopher Walker,East,Books,Laptop,19,229.61,22,UPI,Delivered,Late Delivery,4362.59,3402.82
+ORD455,Joshua Gray,East,Toys,Novel,9,83.1,47,Cash,Pending,Great Service,747.9,396.39
+ORD456,Matthew Morris,South,Clothing,Laptop,18,137,10,Net Banking,Returned,Poor Packaging,2466,2219.4
+ORD457,Jeffrey Gonzalez,East,Toys,Doll,3,72.78,32,UPI,Pending,Excellent,218.34,148.47
+ORD458,Michelle Parks,West,Electronics,Jeans,15,176.07,17,Cash,Returned,Poor Packaging,2641.05,2192.07
+ORD459,Linda Webb,West,Clothing,Headphones,10,483.84,1,Credit Card,Pending,Poor Packaging,4838.4,4790.02
+ORD460,Julie Allen,East,Electronics,Mobile,12,63.13,38,Cash,Returned,Excellent,757.56,469.69
+ORD461,Jeffrey Taylor,South,Clothing,Jeans,19,183.74,32,Net Banking,Returned,Late Delivery,3491.06,2373.92
+ORD462,Nicole Mcgee,North,Clothing,Chair,18,185.59,10,Credit Card,Delivered,Poor Packaging,3340.62,3006.56
+ORD463,Aimee Hanson,East,Furniture,Mobile,16,220.21,35,Net Banking,Returned,Average,3523.36,2290.18
+ORD464,Margaret Hernandez,North,Books,Doll,15,297.21,6,Net Banking,Pending,Great Service,4458.15,4190.66
+ORD465,Raymond Rose,North,Clothing,Doll,6,53,34,Credit Card,Pending,Great Service,318,209.88
+ORD466,Katherine Grant,West,Clothing,Novel,3,97.36,30,Net Banking,Pending,Great Service,292.08,204.46
+ORD467,Martha Hurley,West,Furniture,Action Figure,2,135.4,38,Cash,Delivered,Excellent,270.8,167.9
+ORD468,Melanie Lynch,West,Furniture,Chair,12,363.56,31,Net Banking,Returned,Average,4362.72,3010.28
+ORD469,Pam Bennett,East,Clothing,Headphones,19,233.55,42,Net Banking,Delivered,Late Delivery,4437.45,2573.72
+ORD470,Heather Garcia,North,Toys,Novel,5,120.83,47,Credit Card,Pending,Damaged Product,604.15,320.2
+ORD471,Amanda Dudley,South,Clothing,Headphones,4,411.18,1,UPI,Delivered,Late Delivery,1644.72,1628.27
+ORD472,Vanessa Mejia,West,Furniture,Doll,15,457.41,40,Cash,Returned,Great Service,6861.15,4116.69
+ORD473,Cheyenne Williams,North,Books,Action Figure,12,497.34,17,UPI,Delivered,Late Delivery,5968.08,4953.51
+ORD474,James Chavez,West,Furniture,Shirt,18,458.99,31,Credit Card,Pending,Excellent,8261.82,5700.66
+ORD475,Barry Johnson,South,Electronics,Chair,11,316.58,44,UPI,Pending,Late Delivery,3482.38,1950.13
+ORD476,Sean Brown,West,Furniture,Headphones,15,110.27,21,Credit Card,Pending,Poor Packaging,1654.05,1306.7
+ORD477,Kimberly Barnes,South,Books,Jeans,7,77.37,23,Cash,Returned,Poor Packaging,541.59,417.02
+ORD478,Rachel Velasquez,East,Clothing,Mobile,16,446.26,25,Net Banking,Delivered,Average,7140.16,5355.12
+ORD479,Robin Schneider,East,Clothing,Headphones,11,114.15,26,Credit Card,Returned,Poor Packaging,1255.65,929.18
+ORD480,Anna Leach,South,Clothing,Mobile,19,212.07,0,UPI,Delivered,Average,4029.33,4029.33
+ORD481,Elizabeth Martin,South,Clothing,Headphones,16,173.12,35,Credit Card,Returned,Average,2769.92,1800.45
+ORD482,Kayla Campos,East,Clothing,Headphones,13,63.62,36,Cash,Delivered,Damaged Product,827.06,529.32
+ORD483,Mark Roman,West,Books,Jeans,15,335.08,27,UPI,Delivered,Damaged Product,5026.2,3669.13
+ORD484,Derrick Wheeler,North,Books,Mobile,7,100.08,5,UPI,Delivered,Excellent,700.56,665.53
+ORD485,David Ray,North,Electronics,Chair,15,371.3,41,Cash,Returned,Damaged Product,5569.5,3286.01
+ORD486,Jessica Nolan,East,Books,Shirt,13,192.89,1,UPI,Returned,Poor Packaging,2507.57,2482.49
+ORD487,Heather Santos,East,Furniture,Headphones,12,332.26,45,UPI,Returned,Great Service,3987.12,2192.92
+ORD488,Kevin Watson,South,Furniture,Mobile,18,331.64,33,Net Banking,Pending,Poor Packaging,5969.52,3999.58
+ORD489,Natalie Carter,North,Toys,Shirt,2,420.17,18,Cash,Delivered,Late Delivery,840.34,689.08
+ORD490,Paula Cortez,West,Books,Novel,8,230.37,1,Credit Card,Pending,Damaged Product,1842.96,1824.53
+ORD491,Mark Williamson,North,Books,Chair,17,114.31,3,Cash,Pending,Poor Packaging,1943.27,1884.97
+ORD492,Sarah Nichols,East,Toys,Headphones,14,296.02,33,Credit Card,Pending,Late Delivery,4144.28,2776.67
+ORD493,Donna Rubio,North,Toys,Action Figure,3,379.16,29,Credit Card,Delivered,Late Delivery,1137.48,807.61
+ORD494,Tyrone Short,South,Electronics,Novel,18,63.61,26,Cash,Pending,Damaged Product,1144.98,847.29
+ORD495,Michael Hart,South,Toys,Doll,8,328.97,6,UPI,Delivered,Late Delivery,2631.76,2473.85
+ORD496,Mr. Fred Garcia,East,Clothing,Headphones,13,64.36,21,UPI,Returned,Excellent,836.68,660.98
+ORD497,Carlos Kirk,South,Electronics,Shirt,5,233.75,49,Net Banking,Delivered,Damaged Product,1168.75,596.06
+ORD498,Samantha Spencer,South,Books,Laptop,6,113.51,1,Credit Card,Pending,Poor Packaging,681.06,674.25
+ORD499,Dr. Kimberly Stevenson,South,Electronics,Chair,3,269.93,4,Net Banking,Delivered,Late Delivery,809.79,777.4
+ORD500,Matthew Lyons,South,Toys,Jeans,18,261.91,43,Credit Card,Returned,Late Delivery,4714.38,2687.2
